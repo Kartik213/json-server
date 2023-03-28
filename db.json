@@ -1,0 +1,46 @@
+{
+  "card": [
+    {
+      "id": 3,
+      "name": "Minecraft",
+      "bucketId": 2,
+      "link": "https://www.youtube.com/watch?v=_fC2739irTU",
+      "isclicked": true,
+      "time": "23:39:25"
+    },
+    {
+      "id": 4,
+      "name": "Physics",
+      "bucketId": 3,
+      "link": "https://www.youtube.com/watch?v=2BcOv0VYHkY",
+      "isclicked": true,
+      "time": "23:24:10"
+    },
+    {
+      "id": 5,
+      "name": "Autobot",
+      "bucketId": 1,
+      "link": "https://www.youtube.com/watch?v=NMVGsGiV8Ro",
+      "isclicked": true,
+      "time": "23:40:7"
+    }
+  ],
+  "buckets": [
+    {
+      "id": 1,
+      "name": "Entertainment"
+    },
+    {
+      "id": 2,
+      "name": "Gaming"
+    },
+    {
+      "id": 3,
+      "name": "Music"
+    },
+    {
+      "id": 4,
+      "name": "Educational"
+    }
+  ]
+}
